@@ -25,7 +25,7 @@
 
 <h3>Database Star Schema:<h3>
 
-![Image of Schema](https://bit.ly/34IWu4d)
+![Image of Schema](schema.png)
 
 <h3>Source Code:<h3>
 ----- 
