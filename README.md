@@ -12,7 +12,7 @@
 -----    
 <p>The songs metadata derives from the Million Song Dataset which consists of the songs' features.<p> 
 
-<p>The users' activity metadata (log data) is known to be a simulated data using [eventsim](https://github.com/Interana/eventsim). This data is composed of daily user's activities on the music streaming app.<p> 
+<p>The users' activity metadata (log data) is known to be a simulated data using eventsim. This data is composed of daily user's activities on the music streaming app.<p> 
 
 <h3>Requirements when running locally:<h3>
 ----- 
