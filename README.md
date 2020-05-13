@@ -2,6 +2,7 @@
 
 ![Image of post](postgres.png)
 ![Source](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.quest.com%2Fcommunity%2Fcfs-filesystemfile%2F__key%2Fcommunityserver-components-secureimagefileviewer%2Fcommunityserver-blogs-components-weblogfiles-00-00-00-00-39%2FSlide2.JPG_2D00_1100x500x2.jpg%3F_%3D637219525519183603&imgrefurl=https%3A%2F%2Fwww.quest.com%2Fcommunity%2Fblogs%2Fb%2Fperformance-monitoring%2Fposts%2Fa-review-of-postgres-version-12&tbnid=zsawiknEUztlsM&vet=12ahUKEwjb8oz51q_pAhXZn-AKHXzMC1AQMygEegUIARCdAg..i&docid=IVwnkZfYAv2S6M&w=1100&h=500&q=postgres&ved=2ahUKEwjb8oz51q_pAhXZn-AKHXzMC1AQMygEegUIARCdAg)
+
 <h3>Introduction:<h3>
 
 <p>An music streaming startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.<p>
