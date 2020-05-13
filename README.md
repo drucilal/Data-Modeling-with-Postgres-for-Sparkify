@@ -1,6 +1,6 @@
 <h2>Data Modeling with Postgres for Sparkify<h2>
 
-
+![Image of post](postgres.png)
 
 <h3>Introduction:<h3>
 
