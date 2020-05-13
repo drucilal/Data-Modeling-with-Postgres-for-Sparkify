@@ -26,7 +26,9 @@
 <h3>Database Star Schema:<h3>
 
 ![Image of Schema](schema.png)
-![Source](https://github.com/fpcarneiro/data-lake/blob/master/schema.png)
+
+![Source](https://github.com/fpcarneiro/data-lake/blob/master)
+
 <h3>Source Code:<h3>
 
 <ol>
